@@ -1,1 +1,15 @@
-{"total_trx":0,"total_trx_hari_ini":0,"total_trx_tahun_ini":0,"total_uang_masuk":0,"total_refID":1,"data":{}}
+{
+  "total_trx": 0,
+  "total_trx_hari_ini": 0,
+  "total_trx_tahun_ini": 0,
+  "total_uang_masuk": 831,
+  "total_refID": 2,
+  "data": {
+    "FF5°2555608860°2°6285810018405": {
+      "harga": 831,
+      "status": "PROSES",
+      "refund": false,
+      "tanggal": "2024-08-20 03:28"
+    }
+  }
+}
